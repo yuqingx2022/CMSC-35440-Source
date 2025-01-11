@@ -1,0 +1,21 @@
+﻿title,year,journal,topic,short_name,main_pages
+Neural networks and physical systems with emergent collective computational abilities,1982,PNAS,model,neural-nets,5
+Learning representations by back-propagating errors,1986,Nature,model,backprop,4
+ImageNet Classification with Deep Convolutional Neural Networks,2012,NeurIPS,model,cnn,8
+Deep learning,2015,Nature,model,deep-learning,7
+Deep Residual Learning for Image Recognition,2016,CVPR,vis,resnet,8
+Attention Is All You Need,2017,NeurIPS,model,attention,9
+CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning,2017,arXiv,radiology,chexnet,5
+Densely Connected Convolutional Networks,2017,CVPR,vis,densenet,8
+Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network,2019,Nature,cardiology,ecg,6
+Language Models are Unsupervised Multitask Learners,2019,OpenAI,LLM,gpt-2,10
+CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison,2019,ACM,radiology,chexpert,7
+EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,2019,ICML,vis,efficientnet,8
+Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing,2021,ACM,LLM,pubmedbert,21
+Learning Transferable Visual Models From Natural Language Supervision,2021,ICML,LLM,clip,9
+Data-efficient and weakly supervised computational pathology on whole-slide images,2021,Nature,pathology,clam,15
+Accurate prediction of protein structures and interactions using a three-track neural network,2021,Science,protein,rosettafold,5
+Highly accurate protein structure prediction with AlphaFold,2021,Nature,protein,alphafold,7
+Evolutionary-scale prediction of atomic-level protein structure with a language model,2023,Science,protein,esm-2,7
+A visual-language foundation model for computational pathology,2024,Nature,pathology,conch,10
+Towards a general-purpose foundation model for computational pathology,2024,Nature,pathology,uni,10
